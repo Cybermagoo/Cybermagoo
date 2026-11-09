@@ -13,26 +13,6 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
-
-```javascript
-const developer = {
-    nome: "SEU NOME",
-    localizacao: "Brasil 🇧🇷",
-    objetivo: "Me tornar um desenvolvedor",
-    interesses: [
-        "Cybersecurity",
-        "Desenvolvimento de Software",
-        "Inteligência Artificial",
-        "Tecnologia"
-    ],
-    atualmenteEstudando: ["Python", "HTML", "CSS", "JavaScript"],
-    objetivoAtual: "Evoluir um pouco todos os dias."
-};
-```
-
----
-
 ## ⚡ Tecnologias e ferramentas
 
 <div align="center">
